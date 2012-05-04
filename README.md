@@ -13,3 +13,4 @@ The plugin also comes as part of https://wmspanel.com/ SaaS service.
 
 Wowza version of WMSAuth is also available at WMSPanel via subscription service.
 
+This code is distributed under GPLv3 license.
