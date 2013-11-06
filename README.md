@@ -11,6 +11,7 @@ This code was originally created by Alex Pokotilo.
 
 The plugin also comes as part of https://wmspanel.com/ SaaS service.
 
-Wowza version of WMSAuth is also available at WMSPanel via subscription service.
+WMSPanel provides hot-linking protection for **Wowza Media Server** and **Nimble Streamer**.
+Nimble Streamer also allows domain locking in addition: https://wmspanel.com/nimble
 
 This program is released under GPLv3 license: http://www.gnu.org/licenses/gpl.html
